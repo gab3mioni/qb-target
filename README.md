@@ -1,2 +1,5 @@
 # qb-target
-baseado no target do NoPixel
+
+Baseado no target do No Pixel.
+
+Based on the No Pixel target.
