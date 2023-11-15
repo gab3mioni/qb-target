@@ -1,5 +1,7 @@
 # qb-target
 
-Baseado no target do No Pixel.
+Baseado no target do NoPixel.
 
-Based on the No Pixel target.
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Based on the NoPixel target.
